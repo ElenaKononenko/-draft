@@ -381,7 +381,7 @@ template {
   }
 }
 
-@media (min-width: 1394px) {
+@media (min-width: 1344px) {
   .container {
     width: 1344px;
     padding-left: 15px;
